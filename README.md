@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bagasdprs
+- 👋 Hi, I’m Bagas Dwiprasandi | @bagasdprs
 - 👀 I’m interested in UI/UX and Frontend Developer
 - 🌱 I’m currently learning Fullstack Web Developer
 - 💞️ I’m looking to collaborate on Tech Company in Indonesia
