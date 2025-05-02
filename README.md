@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h1 align="center">I'm Bagas Dwiprasandi 👨‍💻</h1>
+<h3 align="center">I'm <b>Bagas Dwiprasandi</b> 👨‍💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=Web+Designer;Junior+Web+Programming" />
@@ -46,13 +46,13 @@
 
 ## 🔗 Connect With Me
 <p align="center"> 
-  <a href="https://linkedin.com/in/bagasdprs">
+  <a href="https://linkedin.com/in/bagasdprs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bagasdprs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
-  <a href="https://github.com/bagasdprs">
+  <a href="https://github.com/bagasdprs" target="_blank">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge" />
   </a> 
 </p>
@@ -64,6 +64,14 @@
 - I enjoy journaling and creating new layouts for web projects
 - I'm calm but collaborative in a team
 - I love sports and playing games for fun 🎮🏀
+
+---
+
+<!-- GitHub Snake Animation -->
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
+<p align="center">
+  <img src="https://github.com/bagasdsprs/bagasdsprs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
