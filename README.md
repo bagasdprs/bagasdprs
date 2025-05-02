@@ -82,6 +82,5 @@ timeline
     2022 : HR Internship at Automotive Company
     2023 : UI/UX Intern at Digital Agency
     2023 : Built Projects and Event Volunteering
-    2024 : Junior Web Developer Bootcamp
-    2025 : Focus on Fullstack Web Development and UI/UX Portfolio
+    2024 - 2025 : Junior Web Developer Bootcamp and Focus on Fullstack Web Development and UI/UX Portfolio
 
