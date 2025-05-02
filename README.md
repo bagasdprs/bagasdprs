@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Bagas Dwiprasandi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=HR+Intern+%7C+UI%2FUX+Designer+%7C+Junior+Web+Developer+%7C+Event+Volunteer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=HR+Intern+%7C+Web+Designer+%7C+Junior+Web+Developer+%7C+Event+Volunteer" />
 </p>
 
 ---
