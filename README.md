@@ -67,20 +67,12 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/bagasdprs/bagasdprs/blob/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
-</p> 
-
----
-
 ## 🕒 Career Journey
 
 ```mermaid
-timeline
+Timeline
     title My Experience Timeline
     2022 : HR Internship at Automotive Company
     2023 : UI/UX Intern at Digital Agency
     2023 : Built Projects and Event Volunteering
     2024 - 2025 : Junior Web Developer Bootcamp and Focus on Fullstack Web Development and UI/UX Portfolio
-
