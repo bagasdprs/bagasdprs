@@ -23,6 +23,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,figma,git,github,react,bootstrap,tailwind" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdsprs&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -67,10 +71,16 @@
 
 ---
 
-<!-- GitHub Snake Animation -->
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
+<h3 align="center">Github Streak Stats</h3>
 <p align="center">
-  <img src="https://github.com/bagasdsprs/bagasdsprs/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagasdsprs&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">Github Stats Card</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bagasdsprs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
