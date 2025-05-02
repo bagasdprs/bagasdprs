@@ -19,7 +19,7 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,figma,git,github,vscode,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,figma,git,github,reactjs,bootstrap,tailwind" />
 </p>
 
 ---
@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bagasdprs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagasdprs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 | Type | Project | Link |
 |------|---------|------|
 | POS System | Laravel-based Point of Sale | [GitHub](https://github.com/bagasdprs/UjiKomPPKDJakPus-POS) |
-| UI/UX Design | [Figma](https://dribbble.com/bagasdprs) |
+| UI/UX Design | See my Project at -> | [Dribble](https://dribbble.com/bagasdprs) |
 | Personal Site | Portfolio Website | [Live Site](https://github.com/bagasdprs) |
 
 ---
@@ -62,7 +62,7 @@
 
 - I enjoy journaling and creating new layouts for web projects
 - I'm calm but collaborative in a team
-- I love puzzle and rhythm games for fun 🎮
+- I love sports and playing games for fun 🎮🏀
 
 ---
 
