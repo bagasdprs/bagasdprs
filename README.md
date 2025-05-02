@@ -71,20 +71,6 @@
 
 ---
 
-<h3 align="center">Github Streak Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagasdprs&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">Github Stats Card</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagasdprs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🕒 Career Journey
 
 ```mermaid
