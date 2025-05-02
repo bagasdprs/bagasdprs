@@ -70,7 +70,7 @@
 ## 🕒 Career Journey
 
 ```mermaid
-Timeline
+timeline
     title My Experience Timeline
     2022 : HR Internship at Automotive Company
     2023 : UI/UX Intern at Digital Agency
