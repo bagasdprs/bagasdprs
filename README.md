@@ -19,7 +19,7 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,figma,git,github,reactjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,figma,git,github,react,bootstrap,tailwind" />
 </p>
 
 ---
