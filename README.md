@@ -81,7 +81,7 @@ timeline
     title My Experience Timeline
     2022 : HR Internship at Automotive Company
     2023 : UI/UX Intern at Digital Agency
-    2023 : Junior Web Developer Bootcamp
-    2024 : Built Projects and Event Volunteering
-    2025 : Focus on Frontend and UX Portfolio
+    2023 : Built Projects and Event Volunteering
+    2024 : Junior Web Developer Bootcamp
+    2025 : Focus on Fullstack Web Development and UI/UX Portfolio
 
