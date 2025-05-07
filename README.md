@@ -69,11 +69,11 @@
 ---
 
 ## 🎉 My Hobbies
-
+<p align="center"> 
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"/>
 <img src="https://img.shields.io/badge/Game%20&%20Watch-CCFF00?style=for-the-badge&logo=gameandwatch&logoColor=gray"/>
-
+</p>
 ---
 
 ## ⏲ Count the number of people who visited my profile
