@@ -20,7 +20,7 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,figma,git,github,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,mysql,figma,xd,git,github,nodejs,react,bootstrap,jquery,tailwind,stackoverflow,vscode" />
 </p>
 
 <p align="center">
@@ -58,17 +58,38 @@
   <a href="https://github.com/bagasdprs" target="_blank">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge" />
   </a> 
+  <a href="https://t.me/bagasdprs" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a> 
 </p>
 
 ---
 
-## 🎉 Fun Facts
+## 🎉 My Hobbies
 
-- I enjoy journaling and creating new layouts for web projects
-- I'm calm but collaborative in a team
-- I love sports and playing games for fun 🎮🏀
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Game%20&%20Watch-CCFF00?style=for-the-badge&logo=gameandwatch&logoColor=gray"/>
+
 
 ---
+
+## 🎼 My Playlist for Coding
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215r2x22x3hj4xykyxznrebka&width={width})
+
+---
+
+## ⏲ Count the number of people who visited my profile
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bagasdprs/count.svg?"  />
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/bagasdprs/bagasdprs/output/snake.svg" alt="Snake animation" />
+
 
 ## 🕒 Career Journey
 
@@ -79,3 +100,5 @@ timeline
     2023 : UI/UX Intern at Digital Agency
     2023 : Built Projects and Event Volunteering
     2024 - 2025 : Junior Web Developer Bootcamp and Focus on Fullstack Web Development and UI/UX Portfolio
+
+
