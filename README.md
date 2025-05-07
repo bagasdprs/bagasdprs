@@ -55,6 +55,9 @@
   <a href="mailto:bagasdprs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
+  <a href="https://dribbble.com/bagasdprs">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a> 
   <a href="https://github.com/bagasdprs" target="_blank">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge" />
   </a> 
