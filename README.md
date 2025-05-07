@@ -74,17 +74,6 @@
 <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"/>
 <img src="https://img.shields.io/badge/Game%20&%20Watch-CCFF00?style=for-the-badge&logo=gameandwatch&logoColor=gray"/>
 
-
----
-
-## 🎼 My Playlist for Coding
-
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/215r2x22x3hj4xykyxznrebka">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/215r2x22x3hj4xykyxznrebka&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ---
 
 ## ⏲ Count the number of people who visited my profile
@@ -94,9 +83,6 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/bagasdprs/bagasdprs/output/snake.svg" alt="Snake animation" />
-
 
 ## 🕒 Career Journey
 
