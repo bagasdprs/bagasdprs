@@ -79,7 +79,11 @@
 
 ## 🎼 My Playlist for Coding
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215r2x22x3hj4xykyxznrebka&width={width})
+<div align="center">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/user/215r2x22x3hj4xykyxznrebka">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/215r2x22x3hj4xykyxznrebka&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ---
 
