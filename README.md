@@ -1,8 +1,10 @@
-## Hi there! 👋
+<h1 align="center">Hi there! 👋</h1>
+
+===
 
 Welcome to my GitHub profile!  
 
-I'm **Bagas Dwiprasandi, a passionate Fullstack Web Developer passionate about building scalable and efficient applications.  
+I'm **Bagas Dwiprasandi**, a passionate Fullstack Web Developer passionate about building scalable and efficient applications.  
 
 🔧 Currently working on: Laravel + Bootstrap 5  
 🌱 Always learning: React JS, Next JS, Tailwind CSS and Filament PHP  
