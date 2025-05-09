@@ -12,7 +12,7 @@ I'm **Bagas Dwiprasandi**, a passionate Fullstack Web Developer passionate about
 Feel free to check out my repositories and let's connect! 🚀  
 
 <p align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bagas+Dwiprasandi+%F0%9F%91%8B;Web+Developer+%7C+Laravel+%26+React+JS+Enthusiast;Currently+Learning%3A+Next.js+%26+Filament;Open+to+Collaboration+and+New+Challenges+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&width=435&lines=Hi+there%2C+I'm+Bagas+Dwiprasandi+%F0%9F%91%8B;Junior+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
