@@ -13,7 +13,8 @@ Feel free to check out my repositories and let's connect! 🚀
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=Web+Designer;Junior+Web+Programming" />
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Bagas+Dwiprasandi+%F0%9F%91%8B;Web+Developer+%7C+Laravel+%26+React+Enthusiast;Learning+Next.js+%26+Filament;Let's+Build+Something+Great+Together+%F0%9F%9A%80)
+
 </p>
 
 ---
