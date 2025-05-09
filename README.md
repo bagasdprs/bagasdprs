@@ -8,7 +8,7 @@
 ---
 
 <h1 align="center">
-   🧑‍💼 About Me
+    👨‍💻 About Me 👨‍💻
 </h1>
 
 
@@ -20,7 +20,10 @@
 
 ---
 
-## ⚙️ Tech Stack & Tools
+<h1 align="center">
+   ⚙️ Tech Stack & Tools ⚙️
+</h1>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,mysql,figma,xd,git,github,nodejs,react,bootstrap,jquery,tailwind,stackoverflow,vscode" />
@@ -32,7 +35,9 @@
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">
+  📊 GitHub Stats 📊
+</h1>
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bagasdprs&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -40,7 +45,10 @@
 
 ---
 
-## 🧩 Projects
+
+<h1 align="center">
+  🧩 Projects 🧩
+</h1>
 
 | Type | Project | Link |
 |------|---------|------|
@@ -49,6 +57,7 @@
 | Personal Site | Portfolio Website | [Live Site](https://github.com/bagasdprs) |
 
 ---
+
 
 ## 🔗 Connect With Me
 <p align="center"> 
