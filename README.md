@@ -7,7 +7,10 @@
 
 ---
 
-## 🧑‍💼 About Me
+<h1 align="center">
+   🧑‍💼 About Me
+</h1>
+
 
 - 🚗 **HR Intern** at an automotive company — focused on recruitment, HRIS & documentation  
 - 🎨 **UI/UX Intern** at a digital agency — conducted wireframing, prototyping & testing  
