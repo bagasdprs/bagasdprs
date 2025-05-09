@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">
+<h3 align="justify-content">
 
 Welcome to my GitHub profile!  
 I'm **Bagas Dwiprasandi, a passionate Fullstack Web Developer passionate about building scalable and efficient applications.  
