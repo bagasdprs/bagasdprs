@@ -1,7 +1,7 @@
-<h1 align="center">Hi there! 👋</h1>
-<h3 align="justify-content">
+## Hi there! 👋
 
 Welcome to my GitHub profile!  
+
 I'm **Bagas Dwiprasandi, a passionate Fullstack Web Developer passionate about building scalable and efficient applications.  
 
 🔧 Currently working on: Laravel + Bootstrap 5  
@@ -9,7 +9,7 @@ I'm **Bagas Dwiprasandi, a passionate Fullstack Web Developer passionate about b
 🎯 Goals: To contribute more to open-source, collaborate with other developers and continuously improve my programming skills  
 
 Feel free to check out my repositories and let's connect! 🚀  
-</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=440&lines=Web+Designer;Junior+Web+Programming" />
