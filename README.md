@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! 👋</h1>
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=24&pause=1000&color=5EF7A0&width=700&lines=Hi+there%2C+I'm+Bagas+Dwiprasandi+%F0%9F%91%8B;Junior+Web+Programmer+%F0%9F%92%BB;Stack+on+Laravel+and+TailwindCSS;Learning+Next.js+and+Filament;Open+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 
 Welcome to my GitHub profile!  
@@ -10,10 +12,6 @@ I'm **Bagas Dwiprasandi**, a passionate Fullstack Web Developer passionate about
 🎯 Goals: To contribute more to open-source, collaborate with other developers and continuously improve my programming skills  
 
 Feel free to check out my repositories and let's connect! 🚀  
-
-<p align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=24&pause=1000&color=5EF7A0&width=435&lines=Hi+there%2C+I'm+Bagas+Dwiprasandi+%F0%9F%91%8B;I'm+a+Junior+Web+Programming+%F0%9F%92%BB;Stack+on+Laravel+and+Tailwind+" alt="Typing SVG" />
-</p>
 
 
 ---
