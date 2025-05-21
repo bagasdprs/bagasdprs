@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 I'm **Bagas Dwiprasandi**, a passionate Fullstack Web Developer passionate about building scalable and efficient applications.  
 
-🔧 Currently working on: Laravel + Bootstrap 5  
+🔧 Currently working on: Laravel Enthusiast + Bootstrap 5  
 🌱 Always learning: React JS, Next JS, Tailwind CSS and Filament PHP  
 🎯 Goals: To contribute more to open-source, collaborate with other developers and continuously improve my programming skills  
 
