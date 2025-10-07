@@ -34,9 +34,8 @@ Feel free to check out my repositories and let's connect! 🚀
    ⚙️ Tech Stack & Tools ⚙️
 </h1>
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,mysql,figma,xd,git,github,nodejs,react,bootstrap,jquery,tailwind,stackoverflow,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind,react,nodejs,express,mongodb,mysql,figma,xd,git,github,vscode,stackoverflow" />
 </p>
 
 <p align="center">
