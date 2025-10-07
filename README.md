@@ -8,9 +8,9 @@ Welcome to my GitHub profile!
 
 I'm **Bagas Dwiprasandi**, a passionate **Fullstack Web Developer** who loves building clean, efficient, and user-friendly web applications.  
 
-🔧 Currently working on:** Laravel & MERN Stack Projects   
-🌱 Always learning:** Next.js, Filament, REST API, and modern web architecture.  
-🎯 Goals: To contribute more to open-source, collaborate with other developers and continuously improve my programming skills  
+🔧 **Currently working on:** Laravel & MERN Stack Projects   
+🌱 **Always learning:** Next.js, Filament, REST API, and modern web architecture.  
+🎯 **Goals:** To contribute more to open-source, collaborate with other developers and continuously improve my programming skills  
 
 Feel free to check out my repositories and let's connect! 🚀  
 
