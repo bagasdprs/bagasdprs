@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 I'm **Bagas Dwiprasandi**, a passionate **Fullstack Web Developer** who loves building clean, efficient, and user-friendly web applications.  
 
 🔧 **Currently working on:** Laravel & MERN Stack Projects   
-🌱 **Always learning:** Next.js, Filament, REST API, and modern web architecture.  
+🌱 **Always learning:** Next.js, Nuxt.JS Filament, REST API, OpenAI, and modern web architecture.  
 🎯 **Goals:** To contribute more to open-source, collaborate with other developers and continuously improve my programming skills  
 
 Feel free to check out my repositories and let's connect! 🚀  
@@ -26,7 +26,7 @@ Feel free to check out my repositories and let's connect! 🚀
 - 🎨 **UI/UX Intern** at a digital agency — conducted wireframing, prototyping & testing  
 - 💻 Completed a **Junior Web Programmer** bootcamp — learned HTML, CSS, JS, Laravel  
 - 🎪 Passionate **event volunteer** — roles in logistics, documentation, and crew  
-- 🌱 Currently learning **React.js**, **TailwindCSS**, and **REST API**
+- 🌱 Currently learning **React.js**, **Vue.js** **TailwindCSS**, and **REST API**
 
 ---
 
@@ -35,7 +35,7 @@ Feel free to check out my repositories and let's connect! 🚀
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind,react,nodejs,express,mongodb,mysql,figma,xd,git,github,vscode,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind,react,next,nuxt,vue,nodejs,express,mongodb,mysql,figma,xd,git,github,vscode,stackoverflow" />
 </p>
 
 <p align="center">
