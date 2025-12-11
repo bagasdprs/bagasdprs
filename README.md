@@ -25,6 +25,7 @@ Feel free to check out my repositories and let's connect! 🚀
 - 🚗 **HR Intern** at an automotive company — focused on recruitment, HRIS & documentation  
 - 🎨 **UI/UX Intern** at a digital agency — conducted wireframing, prototyping & testing  
 - 💻 Completed a **Junior Web Programmer** bootcamp — learned HTML, CSS, JS, Laravel  
+- 💻 Completed a **Fullstack Web Developer** bootcamp at KADA (Korean-ASEAN Digital Academy) — learned MERN Stack, Next JS, AWS, OpenAI  
 - 🎪 Passionate **event volunteer** — roles in logistics, documentation, and crew  
 - 🌱 Currently learning **React.js**, **Vue.js** **TailwindCSS**, and **REST API**
 
