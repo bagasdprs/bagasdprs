@@ -64,7 +64,7 @@ Feel free to check out my repositories and let's connect! 🚀
 |------|---------|------|
 | POS System | Laravel-based Point of Sale | [GitHub](https://github.com/bagasdprs/UjiKomPPKDJakPus-POS) |
 | UI/UX Design | See my Project at -> | [Dribble](https://dribbble.com/bagasdprs) |
-| Personal Site | Portfolio Website | [Live Site](https://github.com/bagasdprs) |
+| Personal Site | Portfolio Website | [Live Site](https://www.notion.so/PORTFOLIO-BAGAS-DWIPRASANDI-2c108d8da7d8808ebfe0c950e63c9c1c) |
 
 ---
 
