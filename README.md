@@ -88,33 +88,5 @@ Feel free to check out my repositories and let's connect! 🚀
   </a> 
 </p>
 
----
-
-## 🎉 My Hobbies
-<p align="center"> 
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"/>
-<img src="https://img.shields.io/badge/Game%20&%20Watch-CCFF00?style=for-the-badge&logo=gameandwatch&logoColor=gray"/>
-</p>
-
----
-
-## ⏲ Count the number of people who visited my profile
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bagasdprs/count.svg?"  />
-</div>
-
----
-
-## 🕒 Career Journey
-
-```mermaid
-timeline
-    title My Experience Timeline
-    2022 : HR Internship at Automotive Company
-    2023 : UI/UX Intern at Digital Agency
-    2023 : Built Projects and Event Volunteering
-    2024 - 2025 : Junior Web Developer Bootcamp and Focus on Fullstack Web Development and UI/UX Portfolio
 
 
