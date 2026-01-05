@@ -36,7 +36,7 @@ Feel free to check out my repositories and let's connect! 🚀
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind,react,next,nuxt,vue,nodejs,express,mongodb,mysql,figma,xd,git,github,vscode,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,ts,laravel,bootstrap,tailwind,vite,vercel,react,next,nuxt,vue,nodejs,express,mongodb,supabase,mysql,figma,xd,git,github,vscode,stackoverflow" />
 </p>
 
 <p align="center">
